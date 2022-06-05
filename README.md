@@ -9,3 +9,6 @@ This exploratory data analysis project looks at the growth of covid cases and va
 **IMDb Top Movies** (Python, SQL)
 
 This is a web scraping and exploratory data analysis project that reviews IMDb's top 100 ranked movies. It extracts data from IMDb's web page using the Python libraries _BeautifulSoup_, _request_, and _pandas_. The SQL script then explores popular directors, film periods, and genres from the extracted data.
+
+**Nashville Housing** (SQL)
+This data cleaning project examines and edits Nashville housing data for easier querying purposes. It converts data types, populates null cells, uses CASE statements to standardize data, and finds duplicate rows.

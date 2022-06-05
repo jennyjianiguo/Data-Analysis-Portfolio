@@ -1,6 +1,6 @@
 /*
 IMDb Top Rated Movies Data Exploration
-Skills used: CASE Statement, Joins, Subqueries, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views
+Skills used: CASE Statement, Joins, Subqueries, CTEs, Temp Tables, Windows Functions, Aggregate Functions
 */
 
 select * from imdb_top_movies;

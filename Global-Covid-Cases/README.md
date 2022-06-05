@@ -8,4 +8,5 @@ The SQL script analyzes:
 - percentage of the population that has recieved at least one Covid Vaccine over time
 
 Skills used: Joins, Subqueries, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
 Data from [Our World in Data](https://ourworldindata.org/covid-cases).

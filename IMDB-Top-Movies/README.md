@@ -2,7 +2,7 @@
 
 Python libraries used: pandas, BeautifulSoup, request
 
-SQL skills used: joins, subqueries, CTEs, temp tables, windows functions, aggregate functions, creating views, converting data types
+SQL skills used: CASE Statement, Joins, Subqueries, CTEs, Temp Tables, Windows Functions, Aggregate Functions
 
 **Web Scraping using Python**
 
